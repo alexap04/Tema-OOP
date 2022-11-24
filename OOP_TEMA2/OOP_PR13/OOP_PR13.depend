@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1669231594 source:c:\users\alexa\documents\codeblocks\oop_pr13\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+
